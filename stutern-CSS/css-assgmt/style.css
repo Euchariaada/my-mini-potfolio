@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    font-family: cursive, serif;
+    font-size: 80px; /*1rem=16px*/
+    color: white;
+}
+
+.intro-section{
+    background-color: #5bc2c2;
+    position: relative;
+    padding-top: 50px;
+}
+
+.intro-section p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.aboutMe{
+    color: white;
+}
+
+h2{
+    font-family: "Montserrat", sans-serif;
+    font-size: 30px;
+    color: #5bc2c2;
+}
+
+.about{
+    padding: 100px 0;
+    display: flex;
+    justify-content: space-around;
+    line-height: 32px;
+}
+
+h3{
+    font-family: "Montserrat", sans-serif;
+    color: #10b4b9;
+}
+
+.skills-section{
+    padding: 30px 0;
+    line-height: 32px; 
+}
+
+.skills{
+    padding: 20px 0;
+}
+
+.services-section{
+    padding: 50px 0;
+    line-height: 2rem;
+    background-color: #a5e0e0;
+}
+
+.contact-section{
+    padding: 40px 0;
+    line-height: 2rem;
+}
+
+.gender-hobbies{
+    display: flex;
+    justify-content: space-around;
+}
+
+#submit-button{
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #1fa7ac;
+    color: white;
+}
+
+#form{
+    padding: 30px; 
+}
+
+.footer-section{
+    padding: 20px 0;
+    line-height: 2;
+    background-color: #108c91;
+}
+
+
+
+
