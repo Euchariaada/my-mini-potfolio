@@ -1,1 +1,1 @@
-This is my first repository at Stutern.
+I created my potfolio using html and css
